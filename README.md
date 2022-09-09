@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghs1512
-- 👀 I’m interested in ... Web development 
+- 👀 I’m interested in ... Web development , Cloud Computing 
 - 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ... Web development
 - 📫 How to reach me ...
