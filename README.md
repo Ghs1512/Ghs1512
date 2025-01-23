@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ghs1512
-- 👀 I’m interested in ... Embedded Systems, Cybersecurity and Embedded and Cloud Security. 
+- 👀 I’m interested in ... VLSI, Embedded Systems, Cybersecurity.
 - 🌱 I’m currently learning ... Cyber Security and Ethical Hacking
-- 💞️ I’m looking to collaborate on ... Embedded projects
+- 💞️ I’m looking to collaborate on ... Embedded projects & VLSI
 - 📫 How to reach me ...
 
 <!---
